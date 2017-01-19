@@ -1,0 +1,42 @@
+  #ASIA
+    #CHINA, total ~538M (135M): Used a standard logistic curve with K = 650 and points (P1,t1) = (432,1912) and (P2,t2) = (582.6, 1953). There have been estimates of the 1949 and 1945 populations but they vary wildly - 1949 at 542M but 1945 at 490M and therefore may not be realistic; the standard logistic curve yields P3 = 544 M for t3 = 1949 so it seems to be the case that the 1945 was simply an underestimate.
+      AutoReg = Autonomous Region
+      Mup     = Municipality
+      All populations are given in pops, not in people.
+      
+      SICHUAN + CHONGQING :  14.43 M ## ~ 11:4 ratio
+      SHANDONG            :  11.33 M
+      HENAN               :  10.25 M
+      JIANGSU             :   9.56 M
+      HEBEI               :   8.34 M
+      GUANGDONG + HAINAN  :   8.06 M ## ~ 11:1 ratio
+      HUNAN               :   7.81 M
+      ANHUI               :   6.73 M
+      HUBEI               :   5.76 M
+      ZHEJIANG            :   5.22 M
+      GUANGXI AUTOREG     :   4.38 M
+      LIAONING            :   4.23 M
+      YUNNAN              :   4.01 M
+      JIANGXI             :   3.79 M
+      SHA'ANXI            :   3.56 M
+      GUIZHOU             :   3.48 M
+      SHANXI              :   3.32 M
+      FUJIAN              :   3.06 M
+      GANSU               :   2.78 M
+      HEILONGJIANG        :   2.75 M
+      JILIN               :   2.32 M
+      BEIJING MUP         :   2.00 M
+      SHANGHAI MUP        :   1.43 M
+      NEIMENG AUTOREG     :   1.42 M
+      REHE AUTOEG         :   1.28 M ## Merge into Hebei, Liaoning, Tianjin and Neimeng in a 5:3:4:1 ratio
+      XINJIANG AUTOREG    :   1.18 M 
+      XINKANG AUTOREG     :   0.83 M ## Merge into Tibet and Sichuan in a 2:3 ratio
+      TIANJIN  MUP        :   0.62 M
+      QINGHAI             :   0.39 M
+      NINGXIA HUI AUTOREG :   0.35 M
+      TIBET AUTOREG       :   0.30 M
+      
+      Total               : 134.97 M
+      
+      Literacy / Senior High / University / Doctorate : 50% / 1% / 0.2% / 0%
+      Urbanization Rate : 12-14%
