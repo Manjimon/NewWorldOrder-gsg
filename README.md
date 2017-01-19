@@ -1,0 +1,2 @@
+# NewWorldOrder-gsg
+/gsg/ NWO
